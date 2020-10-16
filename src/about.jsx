@@ -1,6 +1,5 @@
 import React from 'react'
 import Web from './images/svg10.svg';
-import {NavLink} from 'react-router-dom';
 import Common from './common.jsx';
 
 const About=()=>{
